@@ -1,4 +1,3 @@
-numpy
-rich
-pygame
-scikit-learn
+# Required packages and dependencies
+
+# Your content here
